@@ -1,0 +1,24 @@
+*{
+	padding:0px;
+	margin:0px;	text-align:left;
+	}
+
+	.menu{
+	margin:auto;
+	background:url(../image/bg.gif) top no-repeat;
+	height:75px;width:1005px;
+	text-align:center;
+	font-size:14px;
+	font-weight:bold;
+	}
+	.menu a{color:white;text-decoration:none;}
+
+ul{width:1005px;margin:auto;height:75px;line-height:75px;list-style-type:none;vertical-align:middle;}
+
+a:hover{color:#b9f605;}
+li{float:left;padding:0px 15px;}
+#specil{color:#fdb306;}
+.a{color:#b9f605;}
+
+
+
