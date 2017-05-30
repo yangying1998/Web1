@@ -1,0 +1,224 @@
+
+body{font-size:12px;
+	font-family:'宋体';
+	color:#522a06;
+	background-image:url(../images/bodybg.gif);
+
+	}
+ul li{list-style-type:none;
+	}
+a:link{text-decoration:none;
+	color:#522a06;}
+a:hover{text-decoration:underline;}
+#header{background-image:url(../images/bg.gif);
+		background-repeat:no-repeat;
+		background-position:center top;
+		height:205px;}
+#banner{width:1000px;
+		height:164px;
+		}
+.logo{position:absolute;
+		left:25px;
+		top:38px;}
+#nav{height:40px;
+	width:1240px;
+	background-image:url(../images/nav.jpg);
+	position:absolute;
+	top:175px;
+	left:10px;}
+.nav-body{
+			height:50px;
+			width:1000px;}
+.nav-content{width:800px;
+			height:40px;
+			font-weight:bold;
+			color:#fff;
+			position:absolute;
+			left:150px;
+			top:10px;}
+.nav-content a:link{color:#fff;}			
+.nav-content a:hover{color:#f9f603;
+					text-decoration:none;}
+#first{color:#f9f603;}
+.shuru{width:140px;
+		height:19px;
+		border:1px solid #f8f5ee;
+		background-color:#f8f5ee;
+		position:absolute;
+		left:900px;
+		top:10px;
+		}
+.sousuo{width:44px;
+		height:21px;
+		background-color:#000;
+		position:absolute;
+		left:1040px;
+		top:10px;
+		border:1px solid #f8f5ee;}
+.zi{position:absolute;
+	left:1050px;
+	top:13px;
+	color:#fff;}
+#content{width:1000px;
+		clear:both;}
+#content-top{overflow:hidden;}
+#content-bottom-left{width:715px;
+					float:left;}
+#content-bottom-right{width:280px;
+					margin-top:20px;
+					float:right;}
+.news-pic{width:324px;
+			height:243px;
+			background-image:url(../images/news_bg.png);
+			float:left;
+			position:absolute;
+			left:150px;
+			top:225px;}
+.retu{width:200px;
+		height:200px;
+		margin:10px 30px;
+		position:absolute;
+		left:30px;
+		top:10px;}
+.qv{height:22px;
+	text-align:center;
+	position:absolute;
+	left:90px;
+	top:220px;}
+.news-list{width:330px;
+		margin-left:38px;
+		float:right;
+		position:absolute;
+		left:475px;
+		top:225px;}
+.news-list li{height:30px;
+			list-style-type:disc;}
+span{float:right;}
+.news-announce{width:277px;
+				margin-top:20px ;
+				margin-left:5px;
+				float:right;
+				position:absolute;
+				left:850px;
+				top:200px;
+				}
+.biaoti{position:absolute;
+		left:120px;
+		top:0px;}
+.liebiaoer{width:295px;
+			height:210px;
+			}
+.liebiaoer ul{
+			background-image:url(../images/board_bg.png);
+			background-repeat:no-repeat;
+			position:absolute;
+			left:10px;
+			top:20px;
+			width:385px;
+			margin:30px;
+			height:310px;
+
+			}
+.liebiaoer li{list-style-type:disc;
+			height:30px;}
+.academic{width:340px;
+			height:54px;
+			position:absolute;
+			left:150px;
+			top:550px;
+			background-image:url(../images/academic.png);
+			float:left;}
+.academic li{height:30px;
+			list-style-type:disc;
+			
+		}
+.xueshu {position:absolute;
+		left:300px;
+		top:10px;
+		float:right;}
+.academic ul{position:absolute;
+				left:0px;
+				top:50px;}
+.book-news{width:340px;
+			margin-left:25px;
+			position:absolute;
+			left:475px;
+			top:550px;
+			float:left;}
+.book-news li{height:30px;
+			list-style-type:disc;
+			}
+.shutan {background-image:url(../images/book_news.png);
+		height:54px;}
+.shutaner{position:absolute;
+		left:300px;
+		top:10px;
+		}
+.yanzhao{position:absolute;
+		left:150px;
+		top:750px;}
+.fengcai{width:700px;
+		clear:both;
+		background-image:url(../images/fengcai_bg2.png);
+		background-repeat:no-repeat;
+		position:absolute;
+		left:150px;
+		top:820px;
+		height:136px;
+		padding:20px;}
+.fengcai li{float:left;}
+#content-bottom-right{
+						background-repeat:no-repeat;
+						width:362px;
+						position:absolute;
+						left:120px;
+						top:20px;}
+.biaotier{position:absolute;
+			left:830px;
+			top:495px;}
+.mingjia{background-image:url(../images/show_bg.png);
+	width:250px;
+	height:600px;
+	background-repeat:no-repeat;
+	position:absolute;
+	left:760px;
+	top:550px;
+	
+		}
+.mingjia img{position:absolute;
+	left:30px;
+	top:10px;
+margin-left:0px;}
+.mingjia span{color:red;
+			float:left;}
+.mingjia p{width:200px;
+	line-height:2em;
+		height:500px;
+		position:absolute;
+		left:30px;
+		top:210px;
+		}
+.more{position:absolute;
+		left:960px;
+		top:890px;}
+#footer{height:150px;
+	width:100%;
+	background-image:url(../images/foot.gif);
+	position:absolute;
+	top:1100px;
+	font-weight:bold;	
+		}
+.foot1{position:absolute;
+		left:450px;
+		}
+.foot1 a:hover{text-decoration:none;}
+.foot2{position:absolute;
+		left:400px;
+		top:10px;}
+.foot{position:absolute;
+	left:450px;
+	top:20px;}
+		
+
+
+
