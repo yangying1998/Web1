@@ -1,0 +1,107 @@
+*{margin:0 auto;
+padding:0;}
+body{font-size:14px;
+font-family:'宋体';
+background-image:url(../images/25.jpg);
+}
+li{list-style-type:none;}
+a:link{text-decoration:none;
+color:black;}
+a:visited{color:black;}
+a:hover{text-decoration:underline;
+color:red;}
+#header{
+width:1260px;
+height:205px;}
+.banner{background-image:url(../images/44.jpg);
+width:1260px;
+height:164px;}
+.banner img{position:absolute;
+left:100px;
+top:70px;}
+#nav{background-color:blue;
+height:40px;}
+.nav-content{position:absolute;
+left:150px;
+top:175px;}
+.nav-content a{margin-left:20px;
+font-weight:bold;}
+.nav-content a:link{color:white;}
+.nav-content a:hover{text-decoration:none;}
+.nav-search{position:absolute;
+right:150px;
+top:175px;}
+.shuru{width:140px;
+height:19px;
+position:absolute;
+right:40px;
+}
+.sousuo{background-color:black;
+width:40px;
+height:23px;
+border:1px white solid;
+}
+.zi{color:white;
+position:absolute;
+right:10px;
+top:5px;}
+#center{padding:50px;}
+.mianbao{font-size:16px;
+position:absolute;
+left:150px;
+top:220px;}
+.left-one{
+width:600px;
+position:absolute;
+left:150px;}
+.left-one-left{float:left;}
+.left-one-left img{width:210px;
+height:200px;
+border:1px red solid;}
+.left-one-right{width:300px;
+float:left;
+padding-left:80px;}
+.left-one-right img{width:250px;}
+.left-one-right ul li{
+line-height:25px;
+list-style-type:none;}
+.left-two{padding-top:250px;
+padding-left:100px;}
+.left-two-left{float:left;}
+.left-two-left img{width:250px;}
+.left-two-left ul li{line-height:25px;}
+.left-two-right{float:left;
+padding-left:50px;}
+.left-two-right img{width:250px;}
+.left-two-right ul li{line-height:25px;}
+.right{
+position:absolute;
+left:800px;
+top:250px;}
+.right-one{padding:20px;}
+.right-two{width:300px;}
+.right-one img{width:200px;
+height:140px;}
+.right-one a:link{opacity:0.7;}
+.right-one a:hover{opacity:1;}
+.right-one img:hover{border:1px red solid;}
+.left-three{padding-top:200px;}
+.left-three-one{float:left;}
+.left-three-one img{width:250px;
+height:40px;}
+.left-three-one ul li{line-height:25px;}
+.left-three-two{float:left;
+padding-left:50px;}
+.left-three-two img{width:250px;
+height:40px;}
+.left-three-two ul li{line-height:25px;}
+#footer{position:absolute;
+	left:0px;
+	top:900px;
+	width:1260px;
+	height:40px;
+background-color:blue;} 
+#footer p{text-align:center;
+	padding-top:15px;
+	font-size:14px;
+color:white;}
